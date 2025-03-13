@@ -1,4 +1,7 @@
 # Weather/Hurricane Forecast CSCI-602
+
+This is a copy of a coding project I did for the citadel with my group
+
 ![img.png](img.png)
 
 ## Objectives
